@@ -31,7 +31,7 @@ Jogo criado no curso Web Moderno da Cod3r.
 ###  Gif
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Gif do Jogo" src="https://giphy.com/gifs/Qyi6ssmDX3vS8gJ6Pd/html5" width="100%">
+  	<img alt="Gif do Jogo" src="https://media.giphy.com/media/Qyi6ssmDX3vS8gJ6Pd/giphy.gif" width="100%">
 </p>
 
 
