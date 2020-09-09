@@ -16,7 +16,7 @@
 
 <a id="about"></a>
 ## :clipboard: Sobre o projeto
-Jogo criado no curso Web Moderno da Cod3r.
+Jogo criado no curso de desenvolvimento Web Moderno da Cod3r.
 
 ---
 
