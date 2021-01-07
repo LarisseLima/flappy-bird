@@ -66,4 +66,4 @@ Open With Live Server
 ---
 
 
-<p align="center"><b>Feito com 	:coffee: por Larisse Lima</b></p>
+<p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
