@@ -25,12 +25,6 @@ Jogo criado no curso de desenvolvimento Web Moderno da Cod3r.
 ###  Layout do Jogo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Layout do Jogo Flappy Bird" src="./img/flappyBird.png" width="100%">
-</p>
-
-###  Gif
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Gif do Jogo" src="https://media.giphy.com/media/Qyi6ssmDX3vS8gJ6Pd/giphy.gif" width="100%">
 </p>
 
