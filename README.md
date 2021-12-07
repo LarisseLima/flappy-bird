@@ -1,8 +1,6 @@
 <h1 align="center" >
     Flappy Bird
-
 </h1>
-
 
 ## :notebook_with_decorative_cover: Sumário
 <a name=anchor></a>
@@ -16,7 +14,7 @@
 
 <a id="about"></a>
 ## :clipboard: Sobre o projeto
-Jogo criado no curso de desenvolvimento Web Moderno da Cod3r.
+Jogo criado para treino de JavaScript.
 
 ---
 
@@ -27,7 +25,6 @@ Jogo criado no curso de desenvolvimento Web Moderno da Cod3r.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   	<img alt="Gif do Jogo" src="https://media.giphy.com/media/Qyi6ssmDX3vS8gJ6Pd/giphy.gif" width="100%">
 </p>
-
 
 ---
 
