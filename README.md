@@ -43,14 +43,13 @@ Jogo criado para treino de JavaScript.
 ### :hammer_and_wrench: Como clonar e Jogar
 ```
 // Clonar este repositório
-git clone https:https://github.com/LarisseLima/desafio-fullstack-junior-CustomerX-CX
+git clone https://github.com/LarisseLima/flappy-bird
 // Entrar no diretório
 cd flappy
 // Abrir o Vscode
 code .
 // Abrir com o Live Server
 Open With Live Server
-
 
 
 ```
