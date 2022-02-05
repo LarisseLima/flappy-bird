@@ -34,8 +34,6 @@ Jogo criado para treino de JavaScript.
 * HTML
 * CSS
 * Javascript
-
-
 ---
 
 <a id="how-to-run"></a>
@@ -54,6 +52,5 @@ Open With Live Server
 
 ```
 ---
-
 
 <p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
