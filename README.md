@@ -40,13 +40,13 @@ Jogo criado para treino de JavaScript.
 ## :gear: Como jogar
 ### :hammer_and_wrench: Como clonar e Jogar
 ```
-// Clonar este repositório
+* Clonar este repositório
 git clone https://github.com/LarisseLima/flappy-bird
-// Entrar no diretório
+* Entrar no diretório
 cd flappy
-// Abrir o Vscode
+ Abrir o Vscode
 code .
-// Abrir com o Live Server
+* Abrir com o Live Server
 Open With Live Server
 
 
